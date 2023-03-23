@@ -1,4 +1,4 @@
-[![Screenshot-151.png](https://i.postimg.cc/3NnDS2JW/Screenshot-151.png)](https://postimg.cc/BPP6tLFG)
+[![capacitacion-empresas.png](https://i.postimg.cc/Xv2Hjmgw/capacitacion-empresas.png)](https://postimg.cc/R3HQGPyF)
 
 # CapacitacionEmpresas  
 Aplicacion diseñada para registrar capacitaciones orientada a empresas que requieran contar con el sevicio.  
